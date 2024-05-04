@@ -1,0 +1,34 @@
+import java.util.Scanner;
+public class Fizz_Buzz {
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+        System.out.println("Enter The Number : ");
+        int num= sc.nextInt();
+
+        if (num%3==0 && num%5==0)
+            System.out.println("FizzBuzz");
+        else if(num%3==0)
+            System.out.println("Fizz");
+        else if (num%5==0)
+            System.out.println("Buzz");
+
+    }
+}
+
+/*
+Output 1:
+Enter The Number :
+15
+FizzBuzz
+
+Output 2:
+Enter The Number :
+10
+Buzz
+
+Output 3:
+Enter The Number :
+18
+Fizz
+
+ */
