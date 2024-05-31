@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package Java_Programs.Loop_Programs.For_Loop;
 
 public class Pattern10 {
@@ -19,4 +20,27 @@ public class Pattern10 {
 1  2
 1
 
+=======
+package Java_Programs.Loop_Programs.For_Loop;
+
+public class Pattern10 {
+    public static void main(String[] args) {
+
+        for(int i=5;i>=1;i--){
+            for(int j=1;j<=i;j++){
+                System.out.print(j+ "  ");
+
+            }
+            System.out.println( );
+        }
+    }
+}
+/*
+1  2  3  4  5
+1  2  3  4
+1  2  3
+1  2
+1  
+
+>>>>>>> 74a289bd849f200c67aa7d790fba427793e63055
  */
