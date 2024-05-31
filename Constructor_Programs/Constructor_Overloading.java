@@ -18,7 +18,7 @@ public class Constructor_Overloading {
 }
 /*
 OUTPUT :
-    
+
 Subject Name from DC : Java Programming
 Subject Name from PC : Python Programming
  */

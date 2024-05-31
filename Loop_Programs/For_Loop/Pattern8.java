@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+/*
 package Java_Programs.Loop_Programs.For_Loop;
 
 public class Pattern8 {
@@ -12,7 +12,7 @@ public class Pattern8 {
     }
 }
 
-/*
+
 5
 44
 333
@@ -32,7 +32,7 @@ public class Pattern8 {
     }
 }
 
-/*
+
 5
 44
 333

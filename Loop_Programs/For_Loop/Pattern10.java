@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 package Java_Programs.Loop_Programs.For_Loop;
 
 public class Pattern10 {
