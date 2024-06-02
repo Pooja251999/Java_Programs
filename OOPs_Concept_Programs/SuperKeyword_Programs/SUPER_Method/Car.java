@@ -1,4 +1,4 @@
-package Java_Programs.OOPs_Concept_Programs.Constructor_Programs.SuperKeyword_Programs.SUPER_Method;
+package Java_Programs.OOPs_Concept_Programs.SuperKeyword_Programs.SUPER_Method;
 
 public class Car extends Vehicle{
     int maxSpeed=120;

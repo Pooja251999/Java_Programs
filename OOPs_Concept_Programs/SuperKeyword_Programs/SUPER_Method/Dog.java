@@ -1,4 +1,4 @@
-package Java_Programs.OOPs_Concept_Programs.Constructor_Programs.SuperKeyword_Programs.SUPER_Method;
+package Java_Programs.OOPs_Concept_Programs.SuperKeyword_Programs.SUPER_Method;
 
 //Method overriding and use of super keyword to access parent class method..
 
